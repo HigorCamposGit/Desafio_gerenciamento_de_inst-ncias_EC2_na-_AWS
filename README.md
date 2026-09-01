@@ -10,7 +10,7 @@ O objetivo do projeto foi entender como o EC2 funciona na prática, como ele se 
 
 Para exemplificar o uso do EC2 na prática, montei o diagrama abaixo mostrando um fluxo completo de processamento de arquivos:
 
-![Arquitetura AWS](images/AWS.png)
+![Arquitetura AWS](AWS.png)
 
 ---
 
