@@ -42,5 +42,5 @@ Fique à vontade para visitar meu perfil, acompanhar meus projetos ou entrar em 
 
 📧 **GitHub:** [HigorCamposGit](https://github.com/HigorCamposGit)
 ---
-✨ *Projeto desenvolvido como parte dA **Formação AWS Cloud Foundations** *
+✨ *Projeto desenvolvido como parte da **Formação AWS Cloud Foundations** *
 
