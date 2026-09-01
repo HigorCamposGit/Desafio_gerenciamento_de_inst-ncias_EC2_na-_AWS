@@ -1,4 +1,4 @@
-# ☁️ Desafio DIO: Gerenciamento de Instâncias EC2 na AWS
+# Desafio DIO: Gerenciamento de Instâncias EC2 na AWS
 
 Repositório foi criado para entrega do desafio da **DIO (Digital Innovation One)** sobre meu aprendizado sobre o **Amazon EC2** na **Formação AWS Cloud Foundations**
 
